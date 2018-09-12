@@ -24,7 +24,7 @@
 
 | Интернациональный вариант | Русский вариант |
 | --- | --- |
-| <img src="" alt="SIBUR Logo"> | <img src="" alt="СИБУР лого"> |
+| <img src="https://raw.githubusercontent.com/sibur-holding/logo/master/SIBUR_logo_INT.jpg" alt="SIBUR Logo"> | <img src="https://raw.githubusercontent.com/sibur-holding/logo/master/SIBUR_logo_RUS.jpg" alt="СИБУР лого"> |
 | [png](https://.png), [svg](https://.svg), [ai](https://.ai) | [png](https://.png), [svg](https://.svg), [ai](https://.ai) |
 
 ### Цветной фон
