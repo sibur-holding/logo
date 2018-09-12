@@ -20,19 +20,19 @@
 Логотип
 ------
 
-### Белый фон
+### Белый/прозрачный фон
 
 | Интернациональный вариант | Русский вариант |
 | --- | --- |
 | <img src="https://raw.githubusercontent.com/sibur-holding/logo/master/SIBUR_logo_INT.jpg" alt="SIBUR Logo"> | <img src="https://raw.githubusercontent.com/sibur-holding/logo/master/SIBUR_logo_RUS.jpg" alt="СИБУР лого"> |
-| [png](https://.png), [svg](https://.svg), [ai](https://.ai) | [png](https://.png), [svg](https://.svg), [ai](https://.ai) |
+| [png](https://raw.githubusercontent.com/sibur-holding/logo/master/Sibur_logo_EN_CS3.png), [ai](https://.ai) | [png](https://raw.githubusercontent.com/sibur-holding/logo/master/Sibur_logo_RU_CS3.png), [ai](https://.ai) |
 
 ### Цветной фон
 
 | Интернациональный вариант | Русский вариант |
 | --- | --- |
 | <img src="https://raw.githubusercontent.com/sibur-holding/logo/master/SIBUR_logo_INT_bg.jpg" alt="SIBUR Logo"> | <img src="https://raw.githubusercontent.com/sibur-holding/logo/master/SIBUR_logo_RUS_bg.jpg" alt="СИБУР лого"> |
-| [png](https://.png), [svg](https://.svg), [ai](https://.ai) | [png](https://.png), [svg](https://.svg), [ai](https://.ai) |
+| [png](https://.png) | [png](https://.png) |
 
 Прежний вариант логотипа
 ------
