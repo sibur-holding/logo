@@ -28,9 +28,9 @@
 
 ### Цветной фон
 
-| Интернациональный вариант | Русский вариант |
+| Горизонтальное расположение | Вертикальное расположение |
 | --- | --- |
-| <img src="https://raw.githubusercontent.com/sibur-holding/logo/master/SIBUR_logo_INT_bg.jpg" alt="SIBUR Logo"> | <img src="https://github.com/sibur-holding/logo/blob/master/sibur-logo.png?raw=true" alt="СИБУР лого"> |
+| <img src="https://github.com/sibur-holding/logo/blob/master/sibur-logo.jpg?raw=true" alt="SIBUR Logo"> | <img src="https://github.com/sibur-holding/logo/blob/master/sibur-logo.png?raw=true" alt="СИБУР лого"> |
 | * | * |
 
 Прежний вариант логотипа
@@ -42,7 +42,3 @@
 Примеры использования логотипа с прозрачностью
 ------
 
-* [Логотип на размытом светлом фоне](https://github.com/sibur-holding/logo/blob/master/examples/sibur-2.jpg)
-* [Логотип на светлом фоне](https://github.com/sibur-holding/logo/blob/master/examples/sibur-voronezhsintezkauchuck.jpg)
-* [Белый логотип, наложенный на фото](https://github.com/sibur-holding/logo/blob/master/examples/logotip-sibur-802168.jpg)
-* [Белый логотип, наложенный на фото](https://github.com/sibur-holding/logo/blob/master/examples/sibur_logo.jpg)
