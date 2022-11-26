@@ -24,13 +24,13 @@
 
 | Горизонтальное расположение | Вертикальное расположение |
 | --- | --- |
-| <img src="https://github.com/sibur-holding/logo/blob/master/sibur-logotip.jpg?raw=true" alt="SIBUR Logo"> | <img src="https://raw.githubusercontent.com/sibur-holding/logo/master/SIBUR_logo_RUS.jpg" alt="СИБУР лого"> ||
+| <img src="https://github.com/sibur-holding/logo/blob/master/sibur-logotip.jpg?raw=true" alt="SIBUR Logo"> | <img src="https://github.com/sibur-holding/logo/blob/master/logotip-sibur.png?raw=true" alt="СИБУР лого"> ||
 
 ### Цветной фон
 
 | Интернациональный вариант | Русский вариант |
 | --- | --- |
-| <img src="https://raw.githubusercontent.com/sibur-holding/logo/master/SIBUR_logo_INT_bg.jpg" alt="SIBUR Logo"> | <img src="https://github.com/sibur-holding/logo/blob/master/logotip-sibur.png?raw=true" alt="СИБУР лого"> |
+| <img src="https://raw.githubusercontent.com/sibur-holding/logo/master/SIBUR_logo_INT_bg.jpg" alt="SIBUR Logo"> | <img src="" alt="СИБУР лого"> |
 | * | * |
 
 Прежний вариант логотипа
