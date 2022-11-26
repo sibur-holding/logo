@@ -20,12 +20,11 @@
 Логотип
 ------
 
-### Белый/прозрачный фон
+### Горизонтальное расположение
 
 | Интернациональный вариант | Русский вариант |
 | --- | --- |
-| <img src="https://github.com/sibur-holding/logo/blob/master/sibur-logotip.jpg?raw=true" alt="SIBUR Logo"> | <img src="https://raw.githubusercontent.com/sibur-holding/logo/master/SIBUR_logo_RUS.jpg" alt="СИБУР лого"> |
-| [png](https://raw.githubusercontent.com/sibur-holding/logo/master/Sibur_logo_EN_CS3.png), [ai](https://github.com/sibur-holding/logo/raw/master/Sibur_logo_EN_CS3.ai) | [png](https://raw.githubusercontent.com/sibur-holding/logo/master/Sibur_logo_RU_CS3.png), [ai](https://github.com/sibur-holding/logo/raw/master/Sibur_logo_RU_CS3.ai) |
+| <img src="https://github.com/sibur-holding/logo/blob/master/sibur-logotip.jpg?raw=true" alt="SIBUR Logo"> | <img src="https://raw.githubusercontent.com/sibur-holding/logo/master/SIBUR_logo_RUS.jpg" alt="СИБУР лого"> ||
 
 ### Цветной фон
 
