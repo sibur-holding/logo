@@ -20,9 +20,9 @@
 Логотип
 ------
 
-### Горизонтальное расположение
+### Белый / прозрачный фон
 
-| Интернациональный вариант | Русский вариант |
+| Горизонтальное расположение | Вертикальное расположение |
 | --- | --- |
 | <img src="https://github.com/sibur-holding/logo/blob/master/sibur-logotip.jpg?raw=true" alt="SIBUR Logo"> | <img src="https://raw.githubusercontent.com/sibur-holding/logo/master/SIBUR_logo_RUS.jpg" alt="СИБУР лого"> ||
 
