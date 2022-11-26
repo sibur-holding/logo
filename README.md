@@ -30,8 +30,8 @@
 
 | Интернациональный вариант | Русский вариант |
 | --- | --- |
-| <img src="https://raw.githubusercontent.com/sibur-holding/logo/master/SIBUR_logo_INT_bg.jpg" alt="SIBUR Logo"> | <img src="https://raw.githubusercontent.com/sibur-holding/logo/master/SIBUR_logo_RUS_bg.jpg" alt="СИБУР лого"> |
-|  | [png](https://raw.githubusercontent.com/sibur-holding/logo/master/whiteru.png) |
+| <img src="https://raw.githubusercontent.com/sibur-holding/logo/master/SIBUR_logo_INT_bg.jpg" alt="SIBUR Logo"> | <img src="https://github.com/sibur-holding/logo/blob/master/logotip-sibur.png?raw=true" alt="СИБУР лого"> |
+| * | * |
 
 Прежний вариант логотипа
 ------
